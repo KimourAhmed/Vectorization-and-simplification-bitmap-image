@@ -1,0 +1,1 @@
+# Vectorization-and-simplification-bitmap-image
