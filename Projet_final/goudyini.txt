@@ -1,0 +1,5 @@
+largeur=1000
+hauteu=1000
+nombre de contours=258
+nombre de segments=73444
+nombres de segment apres simplification=5335

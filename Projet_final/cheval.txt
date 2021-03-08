@@ -1,0 +1,5 @@
+largeur=2000
+hauteur=1500
+nombre de contours =59
+nombres de segments=32002
+nombres de segments apres simplification =3157
