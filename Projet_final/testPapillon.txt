@@ -1,0 +1,6 @@
+largeur = 1122 
+hauteur = 417
+nombre de contours:140
+nombre_de_segments=18212
+nombre_de_segments_apres_simplification=1913
+

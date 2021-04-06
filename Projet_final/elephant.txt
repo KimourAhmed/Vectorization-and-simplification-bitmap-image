@@ -1,0 +1,7 @@
+largeur=1350
+hauteur=2000
+nombre de contour=313
+nombre de segment =115564
+nombre de segments apres simplification=13189
+
+

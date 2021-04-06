@@ -1,0 +1,5 @@
+largeur=1500
+hauteur=2100
+nombre de contours =543
+nombres de segments =231284
+nombres de segmnts apes simplification =26572

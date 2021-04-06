@@ -1,0 +1,5 @@
+largeur = 50
+hauteur = 50
+nombre de contours:3
+nombre_de_segments=488
+nombre_de_segments_apres_simplification=68
